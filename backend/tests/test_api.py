@@ -11,7 +11,7 @@ Structure de chaque test :
 
 import pytest
 
-
+# commentaire
 # =============================================================================
 # PARTIE 1 : TESTS EXEMPLES (Apprenez de ceux-ci !)
 # =============================================================================
